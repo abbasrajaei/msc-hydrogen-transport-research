@@ -2,7 +2,7 @@
 
 **Abbas Rajaei** · University of Bradford, UK · MSc Advanced Chemical Engineering
 
-This repository presents two related studies on the transport of hydrogen-rich gas mixtures. The first examines gas-hydrate phase equilibrium and was published in the *International Journal of Hydrogen Energy*. The second investigates how impurities change pipeline frictional requirements when the quantity of hydrogen delivered is held constant. Together, the studies address distinct flow-assurance and hydraulic questions in hydrogen pipeline transport.
+This repository presents the two research components of my MSc work at the University of Bradford. The first study was published in a peer-reviewed journal. The second is presented as a complete research manuscript in PDF format. The first examines gas-hydrate phase equilibrium and was published in the *International Journal of Hydrogen Energy*. The second investigates how impurities change pipeline frictional requirements when the quantity of hydrogen delivered is held constant. Together, the studies address distinct flow-assurance and hydraulic questions in hydrogen pipeline transport.
 
 ## Research at a glance
 
@@ -32,8 +32,6 @@ Gas hydrates can become stable at particular pressure–temperature–compositio
 Within the investigated systems, H₂S produced the strongest predicted shift of hydrate stability towards higher temperatures. C₃H₈ and C₂H₆ also raised predicted hydrate-formation temperatures. The hydrogen concentration affected predicted hydrate regions, including the relationship between structure-I and structure-II hydrate boundaries. Model agreement with experimental measurements depended on mixture composition and pressure: HYSYS performed better for several of the assessed datasets, whereas HydraFlash performed better in certain intervals. The findings should be interpreted within the mixtures and data ranges examined in the article.
 
 ## Study 2 — Impurity effects on hydrogen-pipeline hydraulics
-
-**Manuscript authors (latest supplied version):** Abbas Rajaei and Nejat Rahmanian.
 
 **[Read the complete manuscript (PDF)](manuscript/Impurity_Effects_on_Hydrogen_Pipeline_Hydraulics.pdf)**
 
@@ -102,9 +100,6 @@ The fitted curves were inverted to estimate concentrations associated with nomin
 
 Density increased almost linearly with impurity concentration within the investigated range, while viscosity had stronger nonlinear dependence. The relative effect of CO₂ and C₃H₈ could change with operating state. These findings support comparing individual impurities at matched conditions and at the same **hydrogen mass delivered**.
 
-### Scope and limitations
-
-The numerical results and surrogate cross-validation are relative to the selected REFPROP property model and the stated hydraulic assumptions. The hydraulic study did **not** include independent pipeline experiments, finite-length compressible-flow integration, multicomponent impurity superposition or a compressor-power calculation. The fitted correlations apply to the listed binary systems and the stated operating and pipe-geometry domain.
 
 ## Repository contents
 
@@ -118,8 +113,4 @@ msc-hydrogen-transport-research/
 ```
 
 The published study is linked to its journal DOI rather than redistributing the publisher's PDF. No software source code, REFPROP files or supplementary numerical workbooks are included in this repository.
-
-## Academic use
-
-This repository presents the two research components of my MSc work at the University of Bradford. The first study was published in a peer-reviewed journal. The second is presented as a complete research manuscript in PDF format. Please use the journal DOI to cite the published paper.
 
