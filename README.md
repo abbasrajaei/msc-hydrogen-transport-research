@@ -112,5 +112,5 @@ msc-hydrogen-transport-research/
     └── Impurity_Effects_on_Hydrogen_Pipeline_Hydraulics.pdf
 ```
 
-The published study is linked to its journal DOI rather than redistributing the publisher's PDF. No software source code, REFPROP files or supplementary numerical workbooks are included in this repository.
+
 
